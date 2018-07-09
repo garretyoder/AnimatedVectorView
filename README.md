@@ -13,7 +13,7 @@ allprojects {
 Add the library as a dependency to your `build.gradle`
 ```groovy
 dependencies {
-    implementation 'com.github.garretyoder:'
+    implementation 'com.github.garretyoder:AnimatedVectorView:0.1'
 }
 ```
 # Usage
