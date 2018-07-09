@@ -1,4 +1,5 @@
-
+# AnimatedVectorView
+![Preivew Gif](https://raw.githubusercontent.com/garretyoder/AnimatedVectorView/master/bounce.gif)
 # Building
 Add jitpack to your maven sources
 ```groovy
